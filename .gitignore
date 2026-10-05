@@ -1,0 +1,15 @@
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
+._*
+__MACOSX/
+
+# Programmes compilés avec « -o programme »
+programme
+*.o
